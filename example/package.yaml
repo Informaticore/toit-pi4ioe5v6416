@@ -1,0 +1,3 @@
+dependencies:
+  pi4ioex:
+    path: ..

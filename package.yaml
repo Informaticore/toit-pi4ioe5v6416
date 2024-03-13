@@ -1,0 +1,2 @@
+name: pi4ioex
+description: Library to control a PI4IOE5V6416 16-Bit I2C GPIO-Expander with toitlang
