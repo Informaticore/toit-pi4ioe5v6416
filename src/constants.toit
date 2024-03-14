@@ -46,7 +46,6 @@ class PullUpDown:
   static PULL_UP ::= 0x01
   static PULL_DOWN_ALL ::= 0x0000
   static PULL_UP_ALL ::= 0xFFFF
-  static DISABLE ::= 0x00
-  static ENABLE ::= 0x01
+  static DISABLED ::= 0x00
   static DISABLE_ALL ::= 0x0000
   static ENABLE_ALL ::= 0xFFFF
